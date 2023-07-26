@@ -1,0 +1,21 @@
+body {
+    font-size: 18px;
+    line-height: 26px;
+    font-family: armyfnt;
+    color: #7b7973;
+    font-weight: 500;
+    background: #fff;
+}
+
+.container-fluid{
+    width: 1349px;
+    height: 65px;
+    border: 1px solid black;
+}
+
+.container-fluid>.nws-title{
+width: 119px;
+height: 65px;
+border: 1px solid blue;
+
+}
